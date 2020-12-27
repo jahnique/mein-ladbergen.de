@@ -1,24 +1,17 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but perhaps you might also find it useful.
+title: Mein Ladbergen!
+subtitle: Hier findest du eine Sammlung an nützlichen Infos rund um unsere Gemeinde Ladbergen.
 layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
+## Neu hinzugefügt:
 
-From this point we should already have:
+27.12.2020
 
-- [Eleventy](https://11ty.io) with a skeleton site
-- A date format filter for Nunjucks based on [Luxon](https://moment.github.io/luxon)
-- A tiny CSS pipeline with PostCSS
-- A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
-- JS [search index](/search.json) generator
-- [Netlify Dev](https://www.netlify.com/products/dev) for testing [Netlify redirects](https://netlify.com/docs/redirects/)
-- Serverless (FaaS) development pipeline with [Netlify Dev](https://www.netlify.com/products/dev) and [Netlify Functions](https://www.netlify.com/products/functions)
+- [Abfallkalender 2021](/abfallkalender2021) als Google Kalender oder direkt fürs eigene Handy als ics
 
-
-
+<!-- 
 ## Post pages
 
 The pages found in in the posts
@@ -30,9 +23,9 @@ The pages found in in the posts
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
   </li>
 {%- endfor -%}
-</ul>
+</ul> -->
 
-## Links from an external data source
+<!-- ## Links from an external data source
 
 These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.json) at build time.
 
@@ -42,10 +35,10 @@ These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.jso
     <a href="{{ item.link }}">{{ item.title }}</a>
   </li>
 {%- endfor -%}
-</ul>
+</ul> -->
 
 
-## Prerequisite
+<!-- ## Prerequisite
 
 - [Node and NPM](https://nodejs.org/)
 
@@ -85,6 +78,6 @@ Netlify's Redirects API can provide friendlier URLs as proxies to these URLs.
 - [/api/hello](/api/hello)
 - [/api/fetch-joke](/api/fetch-joke)
 
-
+ -->
 
 
