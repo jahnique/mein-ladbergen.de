@@ -1,5 +1,5 @@
 ---
-title: Entsorungskalender 2021 Ladbergen
+title: Entsorungs-Kalender 2021 Ladbergen
 layout: layouts/base.njk
 ---
 
