@@ -1,5 +1,5 @@
 ---
-title: Mein Ladbergen!
+title: Welcome to LA!
 subtitle: Hier findest du eine Sammlung an nützlichen Infos rund um unsere Gemeinde Ladbergen.
 layout: layouts/base.njk
 ---
@@ -7,9 +7,7 @@ layout: layouts/base.njk
 
 ## Neu hinzugefügt:
 
-27.12.2020
-
-- [Abfallkalender 2021](/abfallkalender2021) als Google Kalender oder direkt fürs eigene Handy als ics
+- 27.12.2020: [Entsorgungskalender 2021](/entsorgungskalender) als Google Kalender oder direkt fürs eigene Handy als ics
 
 <!-- 
 ## Post pages

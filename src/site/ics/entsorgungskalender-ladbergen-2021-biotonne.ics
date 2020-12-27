@@ -1,0 +1,779 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Biotonne
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:Organische Abfälle aus dem Garten und der Küche werden mit der
+  Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. D
+ ie Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-T
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210312
+DTEND;VALUE=DATE:20210313
+DTSTAMP:20201227T172937Z
+UID:025A1EED-A46C-4E4E-888C-16EC948FB9A5
+CREATED:20201227T111819Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210507
+DTEND;VALUE=DATE:20210508
+DTSTAMP:20201227T172937Z
+UID:15BF9B24-EFFF-4780-987F-C740D353ADC2
+CREATED:20201227T111941Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210618
+DTEND;VALUE=DATE:20210619
+DTSTAMP:20201227T172937Z
+UID:23563E08-9A3B-4499-B1A9-D344386736B0
+CREATED:20201227T112117Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210410
+DTEND;VALUE=DATE:20210411
+DTSTAMP:20201227T172937Z
+UID:24EDB087-8B03-4DD9-ABE1-11877616FD9B
+CREATED:20201227T111851Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210716
+DTEND;VALUE=DATE:20210717
+DTSTAMP:20201227T172937Z
+UID:44D10783-2A4D-4745-ACB8-659689874C91
+CREATED:20201227T112150Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211106
+DTEND;VALUE=DATE:20211107
+DTSTAMP:20201227T172937Z
+UID:45CB0D8B-82DD-4D78-B484-B25678C01447
+CREATED:20201227T112438Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211203
+DTEND;VALUE=DATE:20211204
+DTSTAMP:20201227T172937Z
+UID:56EEF475-E313-44DB-9E02-4E3D9B792CB5
+CREATED:20201227T112554Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210326
+DTEND;VALUE=DATE:20210327
+DTSTAMP:20201227T172937Z
+UID:578C8C2F-6FCE-4114-AAE6-E997C188BDAF
+CREATED:20201227T111837Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211022
+DTEND;VALUE=DATE:20211023
+DTSTAMP:20201227T172937Z
+UID:62D15F51-C4B1-49B0-A4A9-3F47B7BB278C
+CREATED:20201227T112422Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210730
+DTEND;VALUE=DATE:20210731
+DTSTAMP:20201227T172937Z
+UID:70929DAC-BFCB-4AEC-A229-47E9DA9C3E1D
+CREATED:20201227T112210Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211119
+DTEND;VALUE=DATE:20211120
+DTSTAMP:20201227T172937Z
+UID:767FE178-9F05-48B4-A40C-043D2C2CFE1D
+CREATED:20201227T112516Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211231
+DTEND;VALUE=DATE:20220101
+DTSTAMP:20201227T172937Z
+UID:7740AEE0-2A31-4DA9-8CD1-2826A16F2A3E
+CREATED:20201227T112639Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210813
+DTEND;VALUE=DATE:20210814
+DTSTAMP:20201227T172937Z
+UID:811B35BD-0366-4B70-B7FE-A2D4323F3B8D
+URL:http://Organische%20Abf%C3%A4lle%20aus%20dem%20Garten%20und%20der%20K%C
+ 3%BCche%20werden%20mit%20der%20Bio-Tonne%20entsorgt.%20Die%20Bio-Tonne%20wi
+ rd%20im%2014-t%C3%A4glichen%20Rhythmus%20geleert.%20Die%20Abfuhr%20erfolgt%
+ 20in%2080\,%20120%20und%20240%20l-Beh%C3%A4ltern%20%E2%80%93%20braune%20Bio
+ -Tonne.%0A%0AIn%20der%20Bio-Tonne%20werden%20alle%20organischen%20Abf%C3%A4
+ lle%20entsorgt%0A%0AGartenabf%C3%A4lle:%20Topf-%20und%20Schnittblumen\,%20R
+ asenschnitt\,%20Laub\,%20Strauch-%20und%20Heckenschnitt%0A%0AK%C3%BCchenabf
+ %C3%A4lle%20Eierschalen\,%20Obst-%20und%20Gem%C3%BCseabf%C3%A4lle\,%20Kaffe
+ e-%20und%20Teesatz\,%20Speise-%20und%20Knochenreste\,%20verschmutztes%20Zei
+ tungspapier%20in%20geringen%20Mengen%0A%0ANicht%20hinein%20geh%C3%B6ren:%20
+ Kunststoff\,%20Porzellan\,%20Metall\,%20Einwegwindeln\,%20Staubsaugerbeutel
+ \,%20Illustrierte\,%20Steingut\,%20Tonwaren\,%20Hygieneartikel\,%20Kleintie
+ rstreu%0A%0AF%C3%BCr%20Haushalte\,%20die%20eine%20Biotonne%20vorhalten\,%20
+ besteht%20die%20M%C3%B6glichkeit\,%20Strauch-%20und%20Baumschnitt%20an%20be
+ stimmten%20Samstagen%20auf%20dem%20Bau-Betriebshof%20Firma%20Rehkopf\,%20La
+ dbergen\,%20Im%20Sande%2011\,%20vormittags\,%20in%20der%20Zeit%20von%2008.3
+ 0%20bis%2012.00%20Uhr\,%20kostenlos%20abzugeben.%20Die%20Termine%20sind%20d
+ em%20Entsorgungskalender%20zu%20entnehmen
+CREATED:20201227T112243Z
+DESCRIPTION:
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210827
+DTEND;VALUE=DATE:20210828
+DTSTAMP:20201227T172937Z
+UID:83C49D26-983E-4DBF-B186-8E2519426912
+CREATED:20201227T112310Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211218
+DTSTAMP:20201227T172937Z
+UID:9D83ABDA-9F9E-4CF0-A2AB-63575D15C030
+CREATED:20201227T112626Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211008
+DTEND;VALUE=DATE:20211009
+DTSTAMP:20201227T172937Z
+UID:BA4292D9-6AF0-484F-9C1E-7CF77352DAB5
+CREATED:20201227T112405Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210521
+DTEND;VALUE=DATE:20210522
+DTSTAMP:20201227T172937Z
+UID:C0E256C5-EB3A-42A1-A1FD-8ADC6FC3E15A
+CREATED:20201227T111957Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210910
+DTEND;VALUE=DATE:20210911
+DTSTAMP:20201227T172937Z
+UID:D6CFA4D0-77DE-4D02-8C62-4856AAF0F120
+URL:http://Organische%20Abf%C3%A4lle%20aus%20dem%20Garten%20und%20der%20K%C
+ 3%BCche%20werden%20mit%20der%20Bio-Tonne%20entsorgt.%20Die%20Bio-Tonne%20wi
+ rd%20im%2014-t%C3%A4glichen%20Rhythmus%20geleert.%20Die%20Abfuhr%20erfolgt%
+ 20in%2080\,%20120%20und%20240%20l-Beh%C3%A4ltern%20%E2%80%93%20braune%20Bio
+ -Tonne.%0A%0AIn%20der%20Bio-Tonne%20werden%20alle%20organischen%20Abf%C3%A4
+ lle%20entsorgt%0A%0AGartenabf%C3%A4lle:%20Topf-%20und%20Schnittblumen\,%20R
+ asenschnitt\,%20Laub\,%20Strauch-%20und%20Heckenschnitt%0A%0AK%C3%BCchenabf
+ %C3%A4lle%20Eierschalen\,%20Obst-%20und%20Gem%C3%BCseabf%C3%A4lle\,%20Kaffe
+ e-%20und%20Teesatz\,%20Speise-%20und%20Knochenreste\,%20verschmutztes%20Zei
+ tungspapier%20in%20geringen%20Mengen%0A%0ANicht%20hinein%20geh%C3%B6ren:%20
+ Kunststoff\,%20Porzellan\,%20Metall\,%20Einwegwindeln\,%20Staubsaugerbeutel
+ \,%20Illustrierte\,%20Steingut\,%20Tonwaren\,%20Hygieneartikel\,%20Kleintie
+ rstreu%0A%0AF%C3%BCr%20Haushalte\,%20die%20eine%20Biotonne%20vorhalten\,%20
+ besteht%20die%20M%C3%B6glichkeit\,%20Strauch-%20und%20Baumschnitt%20an%20be
+ stimmten%20Samstagen%20auf%20dem%20Bau-Betriebshof%20Firma%20Rehkopf\,%20La
+ dbergen\,%20Im%20Sande%2011\,%20vormittags\,%20in%20der%20Zeit%20von%2008.3
+ 0%20bis%2012.00%20Uhr\,%20kostenlos%20abzugeben.%20Die%20Termine%20sind%20d
+ em%20Entsorgungskalender%20zu%20entnehmen
+CREATED:20201227T112331Z
+DESCRIPTION:
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210102
+DTEND;VALUE=DATE:20210103
+DTSTAMP:20201227T172937Z
+UID:E18D6199-7803-45EC-A6AF-E72F0BD471C7
+CREATED:20201227T111437Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210702
+DTEND;VALUE=DATE:20210703
+DTSTAMP:20201227T172937Z
+UID:E79C5F66-DF6A-443F-A1EF-4DE8DAB87586
+CREATED:20201227T112133Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210423
+DTEND;VALUE=DATE:20210424
+DTSTAMP:20201227T172937Z
+UID:ECDB79F1-FA2B-4D67-9DCB-083A35DF22E4
+CREATED:20201227T111923Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210129
+DTEND;VALUE=DATE:20210130
+DTSTAMP:20201227T172937Z
+UID:F0840891-0DD8-4C6D-AD64-E1FCB24CEAB6
+CREATED:20201227T111633Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210924
+DTEND;VALUE=DATE:20210925
+DTSTAMP:20201227T172937Z
+UID:F0EC7939-5AEB-4003-B571-55760BA8F4A5
+URL:http://Organische%20Abf%C3%A4lle%20aus%20dem%20Garten%20und%20der%20K%C
+ 3%BCche%20werden%20mit%20der%20Bio-Tonne%20entsorgt.%20Die%20Bio-Tonne%20wi
+ rd%20im%2014-t%C3%A4glichen%20Rhythmus%20geleert.%20Die%20Abfuhr%20erfolgt%
+ 20in%2080\,%20120%20und%20240%20l-Beh%C3%A4ltern%20%E2%80%93%20braune%20Bio
+ -Tonne.%0A%0AIn%20der%20Bio-Tonne%20werden%20alle%20organischen%20Abf%C3%A4
+ lle%20entsorgt%0A%0AGartenabf%C3%A4lle:%20Topf-%20und%20Schnittblumen\,%20R
+ asenschnitt\,%20Laub\,%20Strauch-%20und%20Heckenschnitt%0A%0AK%C3%BCchenabf
+ %C3%A4lle%20Eierschalen\,%20Obst-%20und%20Gem%C3%BCseabf%C3%A4lle\,%20Kaffe
+ e-%20und%20Teesatz\,%20Speise-%20und%20Knochenreste\,%20verschmutztes%20Zei
+ tungspapier%20in%20geringen%20Mengen%0A%0ANicht%20hinein%20geh%C3%B6ren:%20
+ Kunststoff\,%20Porzellan\,%20Metall\,%20Einwegwindeln\,%20Staubsaugerbeutel
+ \,%20Illustrierte\,%20Steingut\,%20Tonwaren\,%20Hygieneartikel\,%20Kleintie
+ rstreu%0A%0AF%C3%BCr%20Haushalte\,%20die%20eine%20Biotonne%20vorhalten\,%20
+ besteht%20die%20M%C3%B6glichkeit\,%20Strauch-%20und%20Baumschnitt%20an%20be
+ stimmten%20Samstagen%20auf%20dem%20Bau-Betriebshof%20Firma%20Rehkopf\,%20La
+ dbergen\,%20Im%20Sande%2011\,%20vormittags\,%20in%20der%20Zeit%20von%2008.3
+ 0%20bis%2012.00%20Uhr\,%20kostenlos%20abzugeben.%20Die%20Termine%20sind%20d
+ em%20Entsorgungskalender%20zu%20entnehmen
+CREATED:20201227T112350Z
+DESCRIPTION:
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210226
+DTEND;VALUE=DATE:20210227
+DTSTAMP:20201227T172937Z
+UID:F2EADCF0-001A-463A-8420-25FCF64FDF23
+CREATED:20201227T111712Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T115822Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210212
+DTEND;VALUE=DATE:20210213
+DTSTAMP:20201227T172937Z
+UID:784gd27ki2sqsdaas5qqmgt78t@google.com
+CREATED:20201227T134626Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T134626Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210115
+DTEND;VALUE=DATE:20210116
+DTSTAMP:20201227T172937Z
+UID:39da3a4602v68f4vfrcvv3iq7s@google.com
+CREATED:20201227T134758Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T134758Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210605
+DTEND;VALUE=DATE:20210606
+DTSTAMP:20201227T172937Z
+UID:46gjadoibnods35o29m874qno1@google.com
+CREATED:20201227T135020Z
+DESCRIPTION:Organische Abfälle aus dem Garten und der Küche werden mit der 
+ Bio-Tonne entsorgt. Die Bio-Tonne wird im 14-täglichen Rhythmus geleert. Di
+ e Abfuhr erfolgt in 80\, 120 und 240 l-Behältern – braune Bio-Tonne.\n\nIn 
+ der Bio-Tonne werden alle organischen Abfälle entsorgt\n\nGartenabfälle: To
+ pf- und Schnittblumen\, Rasenschnitt\, Laub\, Strauch- und Heckenschnitt\n\
+ nKüchenabfälle Eierschalen\, Obst- und Gemüseabfälle\, Kaffee- und Teesatz\
+ , Speise- und Knochenreste\, verschmutztes Zeitungspapier in geringen Menge
+ n\n\nNicht hinein gehören: Kunststoff\, Porzellan\, Metall\, Einwegwindeln\
+ , Staubsaugerbeutel\, Illustrierte\, Steingut\, Tonwaren\, Hygieneartikel\,
+  Kleintierstreu\n\nFür Haushalte\, die eine Biotonne vorhalten\, besteht di
+ e Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Ba
+ u-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der
+  Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben. Die Termine sind dem E
+ ntsorgungskalender zu entnehmen
+LAST-MODIFIED:20201227T135020Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Biotonne
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

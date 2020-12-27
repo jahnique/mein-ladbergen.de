@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Schadstoffsammlung
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:Schadstoffhaltige Verpackungen\, z. B. Farb- und Lackdosen ode
+ r Behälter mit Lösemittelresten gehören zum Sondermüll und müssen beim Scha
+ dstoffmobil abgegeben werden.
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210109
+DTEND;VALUE=DATE:20210110
+DTSTAMP:20201227T172937Z
+UID:1entb4miap3i2lboj9kccu6ju9@google.com
+CREATED:20201227T132909Z
+DESCRIPTION:Die Problemmüllsammlungen finden viermal jährlich mit dem Schad
+ stoffmobil am Bauhof „In der Laake“ in der Zeit von 9.00 – 12.00 Uhr statt.
+ ACHTUNG: keine Elektrokleingerätesammlung mehr!Die genauen Termine für die 
+ Problemmüllsammlungen entnehmen Sie bitte dem Entsorgungskalender.\n\nEs we
+ rden angenommen: Farben\, Lacke\, Holzbehandlungs- und Lösungsmittel\, Ölfi
+ lter\, Reststoffbehälter 1)\, Kleber\, Abbeizmittel\, Pflanzenschutz- und S
+ chädlingsbekämpfungsmittel\, Altmedikamente (ohne Umverpackungen)\, Autobat
+ terien\, Trockenbatterien ²)\, Photochemikalien\, scharfe Putz- und Reingun
+ gsmittel\, Säuren und Lau-gen\, Hobbychemikalien.\n\nReststoffbehälter mit 
+ trockenen Farbresten bitte zum Hausmüll geben. Motorenöle wer-den nicht ang
+ enommen. Es besteht seit Jahren eine gesetzliche Verpflichtung für den Han-
+ del\, Altöle bis zu der Menge des gekauften Frischöls kostenlos zurückzuneh
+ men. Bewahren Sie Ihre Kaufbelege sorgfältig auf!Hinweis:Altöl wird am Scha
+ dstoffmobil gegen Zahlung eines Entgeltes von Bürgern angenommen. Kosten 1\
+ ,00 € je Volumenliter des Gebindes (ein 5-l-Kanister mit 1 l Inhalt kostet 
+ danach z.B. 5\,00 €). Begrenzung der Gebindegröße auf 10 l pro Anlieferung.
+  Es werden nur geschlossene Gebinde angenommen\, da keine Umleerung erfolgt
+ . Gebinde werden nicht entleert und zurückgegeben. Auf Wunsch erhält der Bü
+ rger eine Quittung.²) Alte Batterien und Akkus aller Marken sollten dem Han
+ del zurückgegeben werden. Es besteht Rücknahmeverpflichtung lt. Batteriever
+ ordnung.CD`s und DVD`s werden im Bürgerbüro der Gemeinde Ladbergen (Rathaus
+ ) angenommen. Korken können ebenfalls im Rathaus abgegeben werden
+LAST-MODIFIED:20201227T132909Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schadstoffsammlung
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210306
+DTEND;VALUE=DATE:20210307
+DTSTAMP:20201227T172937Z
+UID:0jevaq5dm84n9kf8l9hsek6eq7@google.com
+CREATED:20201227T132940Z
+DESCRIPTION:Die Problemmüllsammlungen finden viermal jährlich mit dem Schad
+ stoffmobil am Bauhof „In der Laake“ in der Zeit von 9.00 – 12.00 Uhr statt.
+ ACHTUNG: keine Elektrokleingerätesammlung mehr!Die genauen Termine für die 
+ Problemmüllsammlungen entnehmen Sie bitte dem Entsorgungskalender.\n\nEs we
+ rden angenommen: Farben\, Lacke\, Holzbehandlungs- und Lösungsmittel\, Ölfi
+ lter\, Reststoffbehälter 1)\, Kleber\, Abbeizmittel\, Pflanzenschutz- und S
+ chädlingsbekämpfungsmittel\, Altmedikamente (ohne Umverpackungen)\, Autobat
+ terien\, Trockenbatterien ²)\, Photochemikalien\, scharfe Putz- und Reingun
+ gsmittel\, Säuren und Lau-gen\, Hobbychemikalien.\n\nReststoffbehälter mit 
+ trockenen Farbresten bitte zum Hausmüll geben. Motorenöle wer-den nicht ang
+ enommen. Es besteht seit Jahren eine gesetzliche Verpflichtung für den Han-
+ del\, Altöle bis zu der Menge des gekauften Frischöls kostenlos zurückzuneh
+ men. Bewahren Sie Ihre Kaufbelege sorgfältig auf!Hinweis:Altöl wird am Scha
+ dstoffmobil gegen Zahlung eines Entgeltes von Bürgern angenommen. Kosten 1\
+ ,00 € je Volumenliter des Gebindes (ein 5-l-Kanister mit 1 l Inhalt kostet 
+ danach z.B. 5\,00 €). Begrenzung der Gebindegröße auf 10 l pro Anlieferung.
+  Es werden nur geschlossene Gebinde angenommen\, da keine Umleerung erfolgt
+ . Gebinde werden nicht entleert und zurückgegeben. Auf Wunsch erhält der Bü
+ rger eine Quittung.²) Alte Batterien und Akkus aller Marken sollten dem Han
+ del zurückgegeben werden. Es besteht Rücknahmeverpflichtung lt. Batteriever
+ ordnung.CD`s und DVD`s werden im Bürgerbüro der Gemeinde Ladbergen (Rathaus
+ ) angenommen. Korken können ebenfalls im Rathaus abgegeben werden
+LAST-MODIFIED:20201227T132940Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schadstoffsammlung
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210703
+DTEND;VALUE=DATE:20210704
+DTSTAMP:20201227T172937Z
+UID:34rehvrk89ocpj0jrq8jjruh7o@google.com
+CREATED:20201227T133006Z
+DESCRIPTION:Die Problemmüllsammlungen finden viermal jährlich mit dem Schad
+ stoffmobil am Bauhof „In der Laake“ in der Zeit von 9.00 – 12.00 Uhr statt.
+ ACHTUNG: keine Elektrokleingerätesammlung mehr!Die genauen Termine für die 
+ Problemmüllsammlungen entnehmen Sie bitte dem Entsorgungskalender.\n\nEs we
+ rden angenommen: Farben\, Lacke\, Holzbehandlungs- und Lösungsmittel\, Ölfi
+ lter\, Reststoffbehälter 1)\, Kleber\, Abbeizmittel\, Pflanzenschutz- und S
+ chädlingsbekämpfungsmittel\, Altmedikamente (ohne Umverpackungen)\, Autobat
+ terien\, Trockenbatterien ²)\, Photochemikalien\, scharfe Putz- und Reingun
+ gsmittel\, Säuren und Lau-gen\, Hobbychemikalien.\n\nReststoffbehälter mit 
+ trockenen Farbresten bitte zum Hausmüll geben. Motorenöle wer-den nicht ang
+ enommen. Es besteht seit Jahren eine gesetzliche Verpflichtung für den Han-
+ del\, Altöle bis zu der Menge des gekauften Frischöls kostenlos zurückzuneh
+ men. Bewahren Sie Ihre Kaufbelege sorgfältig auf!Hinweis:Altöl wird am Scha
+ dstoffmobil gegen Zahlung eines Entgeltes von Bürgern angenommen. Kosten 1\
+ ,00 € je Volumenliter des Gebindes (ein 5-l-Kanister mit 1 l Inhalt kostet 
+ danach z.B. 5\,00 €). Begrenzung der Gebindegröße auf 10 l pro Anlieferung.
+  Es werden nur geschlossene Gebinde angenommen\, da keine Umleerung erfolgt
+ . Gebinde werden nicht entleert und zurückgegeben. Auf Wunsch erhält der Bü
+ rger eine Quittung.²) Alte Batterien und Akkus aller Marken sollten dem Han
+ del zurückgegeben werden. Es besteht Rücknahmeverpflichtung lt. Batteriever
+ ordnung.CD`s und DVD`s werden im Bürgerbüro der Gemeinde Ladbergen (Rathaus
+ ) angenommen. Korken können ebenfalls im Rathaus abgegeben werden
+LAST-MODIFIED:20201227T133006Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schadstoffsammlung
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211002
+DTEND;VALUE=DATE:20211003
+DTSTAMP:20201227T172937Z
+UID:1dppucoo40ug910cqs4f7h1cmu@google.com
+CREATED:20201227T133031Z
+DESCRIPTION:Die Problemmüllsammlungen finden viermal jährlich mit dem Schad
+ stoffmobil am Bauhof „In der Laake“ in der Zeit von 9.00 – 12.00 Uhr statt.
+ ACHTUNG: keine Elektrokleingerätesammlung mehr!Die genauen Termine für die 
+ Problemmüllsammlungen entnehmen Sie bitte dem Entsorgungskalender.\n\nEs we
+ rden angenommen: Farben\, Lacke\, Holzbehandlungs- und Lösungsmittel\, Ölfi
+ lter\, Reststoffbehälter 1)\, Kleber\, Abbeizmittel\, Pflanzenschutz- und S
+ chädlingsbekämpfungsmittel\, Altmedikamente (ohne Umverpackungen)\, Autobat
+ terien\, Trockenbatterien ²)\, Photochemikalien\, scharfe Putz- und Reingun
+ gsmittel\, Säuren und Lau-gen\, Hobbychemikalien.\n\nReststoffbehälter mit 
+ trockenen Farbresten bitte zum Hausmüll geben. Motorenöle wer-den nicht ang
+ enommen. Es besteht seit Jahren eine gesetzliche Verpflichtung für den Han-
+ del\, Altöle bis zu der Menge des gekauften Frischöls kostenlos zurückzuneh
+ men. Bewahren Sie Ihre Kaufbelege sorgfältig auf!Hinweis:Altöl wird am Scha
+ dstoffmobil gegen Zahlung eines Entgeltes von Bürgern angenommen. Kosten 1\
+ ,00 € je Volumenliter des Gebindes (ein 5-l-Kanister mit 1 l Inhalt kostet 
+ danach z.B. 5\,00 €). Begrenzung der Gebindegröße auf 10 l pro Anlieferung.
+  Es werden nur geschlossene Gebinde angenommen\, da keine Umleerung erfolgt
+ . Gebinde werden nicht entleert und zurückgegeben. Auf Wunsch erhält der Bü
+ rger eine Quittung.²) Alte Batterien und Akkus aller Marken sollten dem Han
+ del zurückgegeben werden. Es besteht Rücknahmeverpflichtung lt. Batteriever
+ ordnung.CD`s und DVD`s werden im Bürgerbüro der Gemeinde Ladbergen (Rathaus
+ ) angenommen. Korken können ebenfalls im Rathaus abgegeben werden
+LAST-MODIFIED:20201227T133031Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Schadstoffsammlung
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

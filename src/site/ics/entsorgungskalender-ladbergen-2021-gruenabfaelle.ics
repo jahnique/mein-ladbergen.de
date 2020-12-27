@@ -1,0 +1,536 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Grünabfälle
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALDESC:Betriebsgelände Firma Rehkopf\, Im Sande 11
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210109
+DTEND;VALUE=DATE:20210110
+DTSTAMP:20201227T172937Z
+UID:295jpk6r1v413tfo8q2o8oprjt@google.com
+CREATED:20201227T133604Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T133604Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210123
+DTEND;VALUE=DATE:20210124
+DTSTAMP:20201227T172937Z
+UID:0i61ieus86olso4d8ro4qugets@google.com
+CREATED:20201227T133625Z
+DESCRIPTION:<span><span>Für Haushalte\, die eine Biotonne vorhalten\, beste
+ ht die Möglichkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf d
+ em Bau-Betriebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, i
+ n der Zeit von 08.30 bis 12.00 Uhr\, kostenlos abzugeben.<br></span></span>
+LAST-MODIFIED:20201227T133625Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210206
+DTEND;VALUE=DATE:20210207
+DTSTAMP:20201227T172937Z
+UID:1tjoq542jfoaigr46s7rfkbhg4@google.com
+CREATED:20201227T133650Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T133650Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210220
+DTEND;VALUE=DATE:20210221
+DTSTAMP:20201227T172937Z
+UID:4pa08l0g7tb4evq7bf90j2mkha@google.com
+CREATED:20201227T133704Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T133704Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210306
+DTEND;VALUE=DATE:20210307
+DTSTAMP:20201227T172937Z
+UID:7o9bg3nmj32pane8btlqqvm3bc@google.com
+CREATED:20201227T133720Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T133720Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210313
+DTEND;VALUE=DATE:20210314
+DTSTAMP:20201227T172937Z
+UID:54lsbfrte5kcda7m3hhnhnac89@google.com
+CREATED:20201227T133734Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T133734Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210320
+DTEND;VALUE=DATE:20210321
+DTSTAMP:20201227T172937Z
+UID:6r6k0bgvg2cc5pe2kiv8fb5jch@google.com
+CREATED:20201227T133746Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T133746Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210410
+DTEND;VALUE=DATE:20210411
+DTSTAMP:20201227T172937Z
+UID:3s69a8j8c2i6fildpvut2t8910@google.com
+CREATED:20201227T133808Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T133808Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210417
+DTEND;VALUE=DATE:20210418
+DTSTAMP:20201227T172937Z
+UID:279r1cjkbgjevs418ekan15cgi@google.com
+CREATED:20201227T133821Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T133821Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210424
+DTEND;VALUE=DATE:20210425
+DTSTAMP:20201227T172937Z
+UID:1f2bcjf967h1akuinro9hlr5lp@google.com
+CREATED:20201227T133846Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T133846Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210508
+DTEND;VALUE=DATE:20210509
+DTSTAMP:20201227T172937Z
+UID:4gqu953qask0ai4hon42k74t4s@google.com
+CREATED:20201227T133903Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T133903Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210522
+DTEND;VALUE=DATE:20210523
+DTSTAMP:20201227T172937Z
+UID:3po7s6eine30rqs439jubt921v@google.com
+CREATED:20201227T133950Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T133950Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210612
+DTEND;VALUE=DATE:20210613
+DTSTAMP:20201227T172937Z
+UID:5in7hl77ofnts1da274v65qq3r@google.com
+CREATED:20201227T134014Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134014Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210619
+DTEND;VALUE=DATE:20210620
+DTSTAMP:20201227T172937Z
+UID:2d1ud7tru5go7k6o5frja8er47@google.com
+CREATED:20201227T134025Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134025Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210626
+DTEND;VALUE=DATE:20210627
+DTSTAMP:20201227T172937Z
+UID:13dqt9mfllsjunc2s9a1e8aq4c@google.com
+CREATED:20201227T134037Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134037Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210710
+DTEND;VALUE=DATE:20210711
+DTSTAMP:20201227T172937Z
+UID:18p6pkm8r1lr296nq3fcddu09o@google.com
+CREATED:20201227T134051Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134051Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210724
+DTEND;VALUE=DATE:20210725
+DTSTAMP:20201227T172937Z
+UID:1bdc1gnf5p9p0jf70vol97c89r@google.com
+CREATED:20201227T134103Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134103Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210807
+DTEND;VALUE=DATE:20210808
+DTSTAMP:20201227T172937Z
+UID:25u6j2vd9qdiml1nv6tbpke8mf@google.com
+CREATED:20201227T134116Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134116Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210821
+DTEND;VALUE=DATE:20210822
+DTSTAMP:20201227T172937Z
+UID:4n5lc501rvbt0b6gidcc4hafe8@google.com
+CREATED:20201227T134126Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134126Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210904
+DTEND;VALUE=DATE:20210905
+DTSTAMP:20201227T172937Z
+UID:55nfrnataqr79s6hv1q9n0ivno@google.com
+CREATED:20201227T134139Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134139Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210918
+DTEND;VALUE=DATE:20210919
+DTSTAMP:20201227T172937Z
+UID:11areb8mnhgd7p6b4qa5j72tvt@google.com
+CREATED:20201227T134152Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134152Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211009
+DTEND;VALUE=DATE:20211010
+DTSTAMP:20201227T172937Z
+UID:4307f0aftfkdhjadm8q7ptp0s7@google.com
+CREATED:20201227T134204Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134204Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211016
+DTEND;VALUE=DATE:20211017
+DTSTAMP:20201227T172937Z
+UID:1pcq8r5s9a85hh84jvvub51oap@google.com
+CREATED:20201227T134217Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134217Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211023
+DTEND;VALUE=DATE:20211024
+DTSTAMP:20201227T172937Z
+UID:5gg8sn3m5n26js4m5bk8tbnpsa@google.com
+CREATED:20201227T134227Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134227Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211030
+DTEND;VALUE=DATE:20211031
+DTSTAMP:20201227T172937Z
+UID:3tmc93vbba6j3bk3btnbca230l@google.com
+CREATED:20201227T134238Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134301Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211106
+DTEND;VALUE=DATE:20211107
+DTSTAMP:20201227T172937Z
+UID:0lb2kv4v3apbglkok769h437e3@google.com
+CREATED:20201227T134327Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134327Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211113
+DTEND;VALUE=DATE:20211114
+DTSTAMP:20201227T172937Z
+UID:62hsde2lon11h98e8om7a3f4ml@google.com
+CREATED:20201227T134337Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134337Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211120
+DTEND;VALUE=DATE:20211121
+DTSTAMP:20201227T172937Z
+UID:4hj9lfr5tgjvosvl81i3c5pfr3@google.com
+CREATED:20201227T134346Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134346Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211127
+DTEND;VALUE=DATE:20211128
+DTSTAMP:20201227T172937Z
+UID:39cjrbt7h7u6aj416fdr13jk1t@google.com
+CREATED:20201227T134354Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134354Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211204
+DTEND;VALUE=DATE:20211205
+DTSTAMP:20201227T172937Z
+UID:22qiq9s8knek55q5ko2v9du6i3@google.com
+CREATED:20201227T134406Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134406Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211211
+DTEND;VALUE=DATE:20211212
+DTSTAMP:20201227T172937Z
+UID:0r2rj8ekhmqug9id0080oob730@google.com
+CREATED:20201227T134415Z
+DESCRIPTION:Für Haushalte\, die eine Biotonne vorhalten\, besteht die Mögli
+ chkeit\, Strauch- und Baumschnitt an bestimmten Samstagen auf dem Bau-Betri
+ ebshof Firma Rehkopf\, Ladbergen\, Im Sande 11\, vormittags\, in der Zeit v
+ on 08.30 bis 12.00 Uhr\, kostenlos abzugeben.
+LAST-MODIFIED:20201227T134415Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Grünabfälle
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gelber Sack
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210114
+DTEND;VALUE=DATE:20210115
+RRULE:FREQ=WEEKLY;UNTIL=20211230;INTERVAL=2
+DTSTAMP:20201227T172937Z
+UID:011ffjv86460barksfl3l8e455@google.com
+CREATED:20201227T134509Z
+DESCRIPTION:Abholung der gelben Säcke durch Firma Remondis. Hotline: 054599
+ 138850\n\nVerkaufsverpackungen aus Metallen\,  Kunststoffen\, Verbundstoffe
+ n (Tetrapacks) werden im gelben Wertstoffsack über das Duale System gesamme
+ lt. Alle Gegenstände müssen sauber und ohne Inhaltsreste sein. Schadstoffha
+ ltige Verpackungen\, z. B. Farb- und Lackdosen oder Behälter mit Lösemittel
+ resten gehören zum Sondermüll und müssen beim Schadstoffmobil abgegeben wer
+ den. Die Gelben Säcke werden im 14-täglichen Rhythmus entsorgt. Es sollte d
+ arauf geachtet werden\, ausschließlich Verpackungen im Gelben Sack zu samme
+ ln. Gelbe Säcke mit Restmüll werden von der Müllabfuhr stehengelassen. Die 
+ Gelben Säcke können Sie in den ortsansässigen Verteilerstellen (PBS Stapel 
+ und Tankstelle Westfalen AG) jederzeit nachholen
+LAST-MODIFIED:20201227T134509Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gelber Sack
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
