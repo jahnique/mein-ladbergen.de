@@ -1,5 +1,5 @@
 ---
-title: Datenschutzerklärung
+title: Datenschutz-Erklärung
 layout: layouts/base.njk
 ---
 
