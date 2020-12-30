@@ -80,7 +80,7 @@ p {
 .subtitle {
   font-size: 1.2em;
   margin-top: 1em;
-  margin-bottom: 5em;
+  margin-bottom: 2em;
 }
 
 ul, ol {
@@ -204,10 +204,13 @@ footer {
 
 /* entsorgungskalender */
 .responsiveCal {
-  color:red;
   position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
 }
 
 .responsiveCal iframe {
   position: absolute; top:0; left: 0; width: 100%; height: 100%;
+}
+
+.responsiveImg {
+  position: relative; padding-bottom: 70%; height: 0; overflow: hidden;
 }

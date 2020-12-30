@@ -3,11 +3,13 @@ title: Welcome to LA!
 subtitle: Hier findest du eine Sammlung an nützlichen Infos rund um unsere Gemeinde Ladbergen.
 layout: layouts/base.njk
 ---
-
+<div class="responsiveImg">
+  <img alt="Alte Mühle in Ladbergen" src="/images/ladbergen_alte_muehle.jpg" />
+</div>
 
 ## Neu hinzugefügt:
 
-- 27.12.2020: [Entsorgungskalender 2021](/entsorgungskalender) als Google Kalender oder direkt fürs eigene Handy als ics
+- 27.12.2020: [Entsorgungskalender 2021](/entsorgungskalender) als Google Kalender oder direkt fürs eigene Handy als ics-Download
 
 <!-- 
 ## Post pages
