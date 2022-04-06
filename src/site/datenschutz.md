@@ -8,8 +8,6 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 ## Verantwortlicher
 
 Yannic Schencking</br>
-Abteistr. 45</br>
-48565 Steinfurt
 
 E-Mailadresse: service+mein-ladbergen at yannic.io
 

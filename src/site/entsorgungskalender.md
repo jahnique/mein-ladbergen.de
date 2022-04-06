@@ -1,47 +1,24 @@
 ---
-title: Entsorungs-Kalender 2021 Ladbergen
+title: Entsorungs-Kalender 2022 Ladbergen
 layout: layouts/base.njk
 ---
 
 <div class="responsiveCal">
-    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src=bWVpbmxhZGJlcmdlbkBnbWFpbC5jb20&amp;src=bHU0cWIyaDM0Mm5xdmZxdmF1OXR1NGJtZnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=a3BrY2lxbzY5MzQwcXZyMDBxZjYzMmtqN3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZTAwOWFhNDFjdnQwaWk4bWdqbnA1NHA3djhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=bDBkNWpxZnJzcjlkaThmcnJnb29vdDVhczRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=aGh0dHJsdDFrbDdvMW05Z3UycjBtbmRlMW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23a39f9b&amp;color=%23795548&amp;color=%23F6BF26&amp;color=%2333B679&amp;color=%23039BE5&amp;color=%23D81B60&amp;title=Entsorgungskalender%202021&amp;showTitle=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src=bWVpbmxhZGJlcmdlbkBnbWFpbC5jb20&amp;src=bHU0cWIyaDM0Mm5xdmZxdmF1OXR1NGJtZnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=a3BrY2lxbzY5MzQwcXZyMDBxZjYzMmtqN3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZTAwOWFhNDFjdnQwaWk4bWdqbnA1NHA3djhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=bDBkNWpxZnJzcjlkaThmcnJnb29vdDVhczRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=aGh0dHJsdDFrbDdvMW05Z3UycjBtbmRlMW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23a39f9b&amp;color=%23795548&amp;color=%23F6BF26&amp;color=%2333B679&amp;color=%23039BE5&amp;color=%23D81B60&amp;title=Entsorgungskalender%202022&amp;showTitle=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ## Kalender-Download für's Smartphone
 
 Du kannst dir alle Abfallkalender, die du benötigst, auch einfach direkt in deine Kalender-App auf dein Smartphone importieren. Klicke dazu einfach auf die nachfolgenden Links.
 
-- [Abfuhr des Restmülls 2021](/ics/entsorgungskalender-ladbergen-2021-restmuell.ics)
-- [Abfuhr Biotonne 2021](/ics/entsorgungskalender-ladbergen-2021-biotonne.ics)
-- [Abfuhr gelber Sack 2021](/ics/entsorgungskalender-ladbergen-2021-gelber-sack.ics)
-- [Abfuhr Papiertonne 2021](/ics/entsorgungskalender-ladbergen-2021-papiertonne.ics)
-- [Termin Schadstoffsammlung 2021](/ics/entsorgungskalender-ladbergen-2021-schadstoffsammlung.ics)
-- [Termin Sammlung Grünabfälle 2021](/ics/entsorgungskalender-ladbergen-2021-gruenabfaelle.ics)
+- [Abfuhr alle Müllsorten 2022](/ics/entsorgungskalender-ladbergen-2022-gesamter-muell.ics)
+- [Abfuhr des Restmülls 2022](/ics/entsorgungskalender-ladbergen-2022-restmuell.ics)
+- [Abfuhr Biotonne 2022](/ics/entsorgungskalender-ladbergen-2022-biotonne.ics)
+- [Abfuhr gelber Sack 2022](/ics/entsorgungskalender-ladbergen-2022-gelber-sack.ics)
+- [Abfuhr Papiertonne 2022](/ics/entsorgungskalender-ladbergen-2022-papiertonne.ics)
+- [Termin Schadstoffsammlung 2022](/ics/entsorgungskalender-ladbergen-2022-schadstoffsammlung.ics)
+- [Termin Sammlung Grünabfälle 2022](/ics/entsorgungskalender-ladbergen-2022-gruenabfaelle.ics)
 
 ## Quellen
 
-- [Abfallkalender auf ladbergen.de](https://www.ladbergen.de/verwaltung/dienstleistungen/formular.php?id=28&menuid=4&topmenu=2&did=70)
-
-<!-- <div class="nakedLink">
-
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
-
-</div>
-
-## One-click deploy
-
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
-
-<div class="nakedLink">
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
-
-</div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really. -->
+- [Abfallkalender auf egst.de](https://www.egst.de/de/abfallabholung/)

@@ -6,10 +6,6 @@ layout: layouts/base.njk
 Angaben gemäß § 5 TMG
 
 Yannic Schencking</br>
-Abteistr. 45</br>
-48565 Steinfurt
-
-Telefon: 0176 21230116
 E-Mailadresse: service+mein-ladbergen at yannic.io
 
 
