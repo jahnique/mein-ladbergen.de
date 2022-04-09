@@ -1,6 +1,6 @@
 @import '_variables.css';
 @import '_syntax.css';
-/* @import 'entsorgungskalender.css' */
+@import '_ausflugsziele.css';
 
 * {
   margin: 0;
@@ -43,10 +43,10 @@ body {
   width: 90%;
   text-align: left;
   @media (min-width: $mid) {
-    width: 600px;
+    width: 800px;
   };
   @media (min-width: $wide) {
-    width: 700px;
+    width: 1000px;
   };
 }
 
