@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ausflugsziele in der Nähe von Ladbergen</name>
+    <description/>
+    <Style id="icon-seq2-0-0-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-1-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-2-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-3-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Hofläden</name>
+      <Placemark>
+        <name>Gut Erpenbeck</name>
+        <description>Schinkentheke, Wild, regionale Spezialitäten</description>
+        <styleUrl>#icon-seq2-0-0-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.7962644,52.1382103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weidenhof</name>
+        <description>Bioladen, Grüne Kiste im Abo</description>
+        <styleUrl>#icon-seq2-0-1-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.7813378,52.1970219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kleehof</name>
+        <description>Bio. Weidehähnchen, Lamm-Fleisch und Schaf-Fleisch, Wieseneier aus artgerechter Freilandhaltung, Nudeln</description>
+        <styleUrl>#icon-seq2-0-2-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.7803127,52.0954845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hof Löckener</name>
+        <description>Beeren, Obst</description>
+        <styleUrl>#icon-seq2-0-3-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            7.8373514,52.084111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
