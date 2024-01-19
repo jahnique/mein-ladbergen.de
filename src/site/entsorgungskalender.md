@@ -11,13 +11,13 @@ layout: layouts/base.njk
 
 Du kannst dir alle Abfallkalender, die du benötigst, auch einfach direkt in deine Kalender-App auf dein Smartphone importieren. Klicke dazu einfach auf die nachfolgenden Links.
 
-- [Abfuhr alle Müllsorten 2023](/ics/entsorgungskalender-ladbergen-2023-gesamter-muell.ics)
-- [Abfuhr des Restmülls 2023](/ics/entsorgungskalender-ladbergen-2023-restmuell.ics)
-- [Abfuhr Biotonne 2023](/ics/entsorgungskalender-ladbergen-2023-biotonne.ics)
-- [Abfuhr gelber Sack 2023](/ics/entsorgungskalender-ladbergen-2023-gelber-sack.ics)
-- [Abfuhr Papiertonne 2023](/ics/entsorgungskalender-ladbergen-2023-papiertonne.ics)
-- [Termin Schadstoffsammlung 2023](/ics/entsorgungskalender-ladbergen-2023-schadstoffsammlung.ics)
-- [Termin Sammlung Grünabfälle 2023](/ics/entsorgungskalender-ladbergen-2023-gruenabfaelle.ics)
+- [Abfuhr alle Müllsorten 2024](/ics/entsorgungskalender-ladbergen-2024-gesamter-muell.ics)
+- [Abfuhr des Restmülls 2024](/ics/entsorgungskalender-ladbergen-2024-restmuell.ics)
+- [Abfuhr Biotonne 2024](/ics/entsorgungskalender-ladbergen-2024-biotonne.ics)
+- [Abfuhr gelber Sack 2024](/ics/entsorgungskalender-ladbergen-2024-gelber-sack.ics)
+- [Abfuhr Papiertonne 2024](/ics/entsorgungskalender-ladbergen-2024-papiertonne.ics)
+- [Termin Schadstoffsammlung 2024](/ics/entsorgungskalender-ladbergen-2024-schadstoffsammlung.ics)
+- [Termin Sammlung Grünabfälle 2024](/ics/entsorgungskalender-ladbergen-2024-gruenabfaelle.ics)
 
 ## Quellen
 
