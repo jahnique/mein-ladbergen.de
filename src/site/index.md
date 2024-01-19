@@ -9,6 +9,7 @@ layout: layouts/base.njk
 
 ## Neu hinzugefügt:
 
+- 19.01.2024: [Entsorgungskalender 2024](/entsorgungskalender) als Google Kalender oder direkt fürs eigene Handy als ics-Download
 - 17.07.2023: [Entsorgungskalender 2023](/entsorgungskalender) als Google Kalender oder direkt fürs eigene Handy als ics-Download
 - 06.04.2022: [Entsorgungskalender 2022](/entsorgungskalender) als Google Kalender oder direkt fürs eigene Handy als ics-Download
 - 06.04.2022: [Ratsinformationssystem Ladbergen](https://ratsinfo.mein-ladbergen.de) in Hauptmenü hinzugefügt
