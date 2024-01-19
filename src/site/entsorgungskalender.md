@@ -1,5 +1,5 @@
 ---
-title: Entsorungs-Kalender 2023 Ladbergen
+title: Entsorungs-Kalender 2024 Ladbergen
 layout: layouts/base.njk
 ---
 
