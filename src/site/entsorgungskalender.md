@@ -1,5 +1,5 @@
 ---
-title: Entsorungs-Kalender 2024 Ladbergen
+title: Entsorungs-Kalender 2025 Ladbergen
 layout: layouts/base.njk
 ---
 
@@ -11,13 +11,13 @@ layout: layouts/base.njk
 
 Du kannst dir alle Abfallkalender, die du benötigst, auch einfach direkt in deine Kalender-App auf dein Smartphone importieren. Klicke dazu einfach auf die nachfolgenden Links.
 
-- [Abfuhr alle Müllsorten 2024](/ics/entsorgungskalender-ladbergen-2024-gesamter-muell.ics)
-- [Abfuhr des Restmülls 2024](/ics/entsorgungskalender-ladbergen-2024-restmuell.ics)
-- [Abfuhr Biotonne 2024](/ics/entsorgungskalender-ladbergen-2024-biotonne.ics)
-- [Abfuhr gelber Sack 2024](/ics/entsorgungskalender-ladbergen-2024-gelber-sack.ics)
-- [Abfuhr Papiertonne 2024](/ics/entsorgungskalender-ladbergen-2024-papiertonne.ics)
-- [Termin Schadstoffsammlung 2024](/ics/entsorgungskalender-ladbergen-2024-schadstoffsammlung.ics)
-- [Termin Sammlung Grünabfälle 2024](/ics/entsorgungskalender-ladbergen-2024-gruenabfaelle.ics)
+- [Abfuhr alle Müllsorten 2025](/ics/entsorgungskalender-ladbergen-2024-gesamter-muell.ics)
+- [Abfuhr des Restmülls 2025](/ics/entsorgungskalender-ladbergen-2024-restmuell.ics)
+- [Abfuhr Biotonne 2025](/ics/entsorgungskalender-ladbergen-2024-biotonne.ics)
+- [Abfuhr gelber Sack 2025](/ics/entsorgungskalender-ladbergen-2024-gelber-sack.ics)
+- [Abfuhr Papiertonne 2025](/ics/entsorgungskalender-ladbergen-2024-papiertonne.ics)
+- [Termin Schadstoffsammlung 2025](/ics/entsorgungskalender-ladbergen-2024-schadstoffsammlung.ics)
+- [Termin Sammlung Grünabfälle 2025](/ics/entsorgungskalender-ladbergen-2024-gruenabfaelle.ics)
 
 ## Quellen
 
